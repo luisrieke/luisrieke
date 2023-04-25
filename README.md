@@ -3,7 +3,7 @@
 - 🌱 I do web design and web development stuff with [Spacifik](https://spacifik.de/) since 2018
 - 🎓 I studied Computer Science with a focus on web development at the [Berlin University of Applied Sciences and Technology](https://www.bht-berlin.de/b-mi)
 - 🌊 For my bachelor thesis I designed Cosurfingspace, a [platform for coworking spaces](https://www.cosurfingspace.com/)
-- I'm building right now a small little Chrome extension called [Atlantico](http://atlantico.app/) which helps you to prioritize and reach your goals.
+- ✨ I'm building right now a small little Chrome extension called [Atlantico](http://atlantico.app/) which helps you to prioritize and reach your goals.
 - 🗞️ I publish on [Digitalconomics](https://digitalconomics.de/), [Fynancialist](https://fynancialist.de/) and on my [podcast](https://open.spotify.com/show/38sPsl9vjeBAUeny2y1vT8?si=e9550d15618245d0&nd=1)
 - 🍻 All my profiles can be found at: [luisrieke.com](https://luisrieke.com/)
 
