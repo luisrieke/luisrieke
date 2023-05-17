@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I do web design and web development stuff with [Spacifik](https://spacifik.de/) since 2018
+- 🛎️ Currently, my primary focus revolves around [hotel websites and hotel software](https://hotelagentur.digital/)
 - 🎓 I studied Computer Science with a focus on web development at the [Berlin University of Applied Sciences and Technology](https://www.bht-berlin.de/b-mi)
 - 🌊 For my bachelor thesis I designed Cosurfingspace, a [platform for coworking spaces](https://www.cosurfingspace.com/)
 - ✨ I developed [Atlantico](http://atlantico.app/), a Chrome extension that enhances the appearance of your new tab. It is live [on the Chrome Web Store](https://chrome.google.com/webstore/detail/atlantico/mpjonalpkhimbmbgpipakpmlehddgeci)
