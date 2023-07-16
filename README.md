@@ -11,7 +11,7 @@
 
 ## Employers
 
-- 🍪 2023-now Product Owner at [Usercentrics](https://usercentrics.com/), Consent Management (Cookie Handling) 
+- 🍪 2023-now Product Owner at [Usercentrics](https://usercentrics.com/), Consent Management (Data Privacy Software) 
 - 🧑🏻‍💻 2021-2022 React Developer and Junior Product Owner at [Europace](https://europace.de/), part of [Finn](https://meinfinn.de/), Property Financing Platform
 - 🚀 2021 Product Owner [Venture Capitol](https://venturecapitol.de/), Founder Platform for German Startups
 - 🐿️ 2017-2018 Tech Support [Searchmetrics](https://www.searchmetrics.com/), SEO Data Platform
