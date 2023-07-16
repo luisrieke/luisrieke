@@ -5,7 +5,7 @@
 - 🎓 I studied Computer Science with a focus on web development at the [Berlin University of Applied Sciences and Technology](https://www.bht-berlin.de/b-mi)
 - 🌊 For my bachelor thesis I designed Cosurfingspace, a [platform for coworking spaces](https://www.cosurfingspace.com/)
 - ✨ I developed [Atlantico](http://atlantico.app/), a Chrome extension that enhances the appearance of your new tab, live [on the Chrome Web Store](https://chrome.google.com/webstore/detail/atlantico/mpjonalpkhimbmbgpipakpmlehddgeci)
-- 🍪 If you never want to see any cookie banners again, check out our extension at [Data Shield](https://www.usercentrics-datashield.com/)
+- 🥷 If you enjoy your privacy but never want to see any cookie banners again, check out our extension at [Data Shield](https://www.usercentrics-datashield.com/)
 - 🗞️ I publish on [Digitalconomics](https://digitalconomics.de/), [Fynancialist](https://fynancialist.de/) and on my [podcast](https://open.spotify.com/show/38sPsl9vjeBAUeny2y1vT8?si=e9550d15618245d0&nd=1)
 - 🍻 All my profiles can be found at: [luisrieke.com](https://luisrieke.com/)
 
