@@ -5,7 +5,8 @@
 - 🎓 I studied Computer Science with a focus on web development at the [Berlin University of Applied Sciences and Technology](https://www.bht-berlin.de/b-mi)
 - 🌊 For my bachelor thesis I designed Cosurfingspace, a little [platform for coworking spaces](https://www.cosurfingspace.com/)
 - ✨ I build the [Atlantik App](http://atlantik.app/), a Chrome extension to organize your daily todos in the new tab of your browser
-- 🗞️ I publish on [Digitalconomics](https://digitalconomics.de/), [Fynancialist](https://fynancialist.de/) and on my [podcast](https://open.spotify.com/show/38sPsl9vjeBAUeny2y1vT8?si=e9550d15618245d0&nd=1)
+- 🗞️ I publish on [Digitalconomics](https://digitalconomics.de/), [Fynancialist](https://fynancialist.de/)
+- 🎧 Dive into conversations with incredible tech founders on my podcast. Don't miss out! ✨ -> [Digitalconomics Podcast 🇩🇪](https://digitalconomics.de/podcast/) & [Digitalconomics Podcast (English Edition) 🇺🇸/🇬🇧]([https://digitalconomics.de/podcast/](https://digitalconomics.de/digitalconomics-podcast-english-edition/))
 - 🍻 All my profiles can be found at: [luisrieke.com](https://luisrieke.com/)
 
 ## Employers
