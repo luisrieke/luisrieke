@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I do web design and web development stuff with [Spacifik](https://spacifik.de/) since 2018
+- 🙇🏻‍♂️ I do web design and web development stuff with [Spacifik](https://spacifik.de/) since 2018
 - 🛎️ Sometimes I help hotels to build [hotel websites and hotel software](https://hotelagentur.digital/)
 - 🎓 I studied Computer Science with a focus on web development at the [Berlin University of Applied Sciences and Technology](https://www.bht-berlin.de/b-mi)
 - 🌊 For my bachelor thesis I designed Cosurfingspace, a little [platform for coworking spaces](https://www.cosurfingspace.com/)
@@ -13,5 +13,5 @@
 
 - 🍪 2023-now Product Owner at [Usercentrics](https://usercentrics.com/), Consent Management Platform (Data Privacy Software) 
 - 🧑🏻‍💻 2021 to 2022 React Developer and Junior Product Owner at [Finn](https://meinfinn.de/) (which is part of [Europace](https://europace.de/)), Property Financing Platform
-- 🚀 2021 Product Owner [Venture Capitol](https://venturecapitol.de/), Founder Platform for German Startups
+- 🌱 2021 Product Owner [Venture Capitol](https://venturecapitol.de/), Founder Platform for German Startups, now [Starthilfe App](https://starthilfe.app/)
 - 🐿️ 2017 to 2018 Tech Support at [Searchmetrics](https://www.searchmetrics.com/), SEO software and comprehensive SEO data repositories
