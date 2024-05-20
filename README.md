@@ -4,7 +4,7 @@
 - 🎓 I studied Computer Science with a focus on web development at the [Berlin University of Applied Sciences and Technology](https://www.bht-berlin.de/b-mi)
 - 🌊 For my bachelor thesis I designed Cosurfingspace, a little [platform for coworking spaces](https://www.cosurfingspace.com/)
 - ✨ I build the [Atlantik App](http://atlantik.app/), a Chrome extension to organize your daily todos in the new tab of your browser
-- 🎸 I developed a little [Chords & Lyrics](https://chordsandlyrics.app/) PWA with a little collection of my favourite camp fire chords.
+- 🎸 I developed a [Chords & Lyrics](https://chordsandlyrics.app/) PWA with a little collection of my favourite camp fire chords.
 - 🎧 Conversations with tech founders on my podcast: [Digitalconomics Podcast 🇩🇪](https://digitalconomics.de/podcast/) & [DC Podcast English Edition 🇺🇸/🇬🇧](https://digitalconomics.de/digitalconomics-podcast-english-edition/)
 - 🍻 All my profiles can be found at: [luisrieke.com](https://luisrieke.com/)
 
