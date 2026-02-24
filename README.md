@@ -2,9 +2,14 @@
 
 - 🙇🏻‍♂️ design and development stuff with [Spacifik](https://spacifik.de/) since 2018
 - 🎓 I studied Computer Science with a focus on web development at the [Berlin University of Applied Sciences and Technology](https://www.bht-berlin.de/b-mi)
-- 🌊 for my bachelor thesis I designed Cosurfingspace, a little [platform for coworking spaces](https://www.cosurfingspace.com/)
+
 - 🎸 I developed a [Chords & Lyrics](https://chordsandlyrics.app/) PWA with a little collection of my favourite camp fire chords.
 - 🎧 conversations with tech founders on my podcast: [Digitalconomics Podcast 🇩🇪](https://digitalconomics.de/podcast/) & [DC Podcast English Edition 🇺🇸/🇬🇧](https://digitalconomics.de/digitalconomics-podcast-english-edition/)
+- 🌊 for my bachelor thesis I designed Cosurfingspace, a little [platform for coworking spaces](https://www.cosurfingspace.com/) (inactive)
+- 🌴 I love to work from [Colivings](https://colivings.app/) (inactive) with digital nomads from all around the world
+- 🥬 If you want to upgrade your cooking and groceries shopping I recommend my app [lystl grocery list](https://lystl.com/)
+- ✈️ [Move to Germany](https://movetogermany.info/) helps expats to move to Germany
+- 🗺️ With [usermap](https://usermap.app/) you can collect user feedback and sort and prioritize it with AI, to build what users really want
 - 🍻 all profiles can be found at: [luisrieke.com](https://luisrieke.com/)
 
 ## Employers
