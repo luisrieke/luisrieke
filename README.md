@@ -2,7 +2,6 @@
 
 - 🙇🏻‍♂️ design and development stuff with [Spacifik](https://spacifik.de/) since 2018
 - 🎓 I studied Computer Science with a focus on web development at the [Berlin University of Applied Sciences and Technology](https://www.bht-berlin.de/b-mi)
-
 - 🎸 I developed a [Chords & Lyrics](https://chordsandlyrics.app/) PWA with a little collection of my favourite camp fire chords.
 - 🎧 conversations with tech founders on my podcast: [Digitalconomics Podcast 🇩🇪](https://digitalconomics.de/podcast/) & [DC Podcast English Edition 🇺🇸/🇬🇧](https://digitalconomics.de/digitalconomics-podcast-english-edition/)
 - 🌊 for my bachelor thesis I designed Cosurfingspace, a little [platform for coworking spaces](https://www.cosurfingspace.com/) (inactive)
