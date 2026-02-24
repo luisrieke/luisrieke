@@ -13,7 +13,7 @@
 
 ## Employers
 
-- 💸 2024 Senior Product Manager at [Finanzguru](https://finanzguru.de/), financial assistant App, responsible for the premium subscriptions and for launching the [Split App](https://split.finanzguru.de) for shared group expsenses - at the moment at 75k installations after 1 month (end of August)
+- 💸 2024 Senior Product Manager at [Finanzguru](https://finanzguru.de/), financial assistant App, responsible for the premium subscriptions and for launching the [Split App](https://split.finanzguru.de) for shared group expsenses - App Store ⌀ 4.8 stars with 940 reviews, Play Store ⌀ 4.8 stars with 564 reviews (by February 2026), focus on organic growth
 - 🍪 2023 Product Owner at [Usercentrics](https://usercentrics.com/), consent management platform (data privacy)
 - 🛁 2021 React Developer and Junior Product Manager at [Finn](https://meinfinn.de/) (which is part of [Europace](https://europace.de/)), property financing platform
 - 🌱 2020 Product Manager [Venture Capitol](https://venturecapitol.de/), founder platform for German startups, now [Starthilfe App](https://starthilfe.app/)
